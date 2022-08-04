@@ -1,0 +1,53 @@
+#navbarMonstera{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#navbarMonstera div:nth-child(2){
+    flex-grow: 2;
+    font-size: 20px;
+   
+}
+
+.navitems{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-right: 140px;
+    margin-left: 100px;
+}
+
+#navEnd{
+    display: flex;
+    padding-right: 60px;
+}
+
+#midWholePart11{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 600px;
+    height: 50vh;
+    margin-top: 140px;
+    margin-bottom: -150px;
+}
+
+.btn{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 50px;
+    margin-right: 600px;
+    margin-top: 20px;
+}
+
+#midWholePart13{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 480px;
+}
+.midWholePart13Parts{
+    display: flex;
+    font-family: poppins,sans-serif;
+}
