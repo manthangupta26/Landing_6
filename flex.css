@@ -51,3 +51,15 @@
     display: flex;
     font-family: poppins,sans-serif;
 }
+
+@media only screen and (max-width: 768px) {
+    .list{
+        display: none;
+    }
+    .plant-img{
+        display: none;
+    }
+    .midWholePart13Parts{
+        display: none;
+    }
+}
